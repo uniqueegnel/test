@@ -1,0 +1,7 @@
+Usia,Pendapatan (ribu USD),Status Pernikahan,Target (0: Tidak | 1: Ya)
+25,50,Belum Menikah,0
+30,80,Menikah,1
+35,120,Menikah,1
+40,90,Belum Menikah,0
+45,60,Menikah,0
+50,150,Belum Menikah,1
